@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\Projetos\Marcos-desafio\bin\Debug\net7.0\Marcos-desafio.exe
+C:\Users\ADMIN\Desktop\Projetos\Marcos-desafio\bin\Debug\net7.0\Marcos-desafio.deps.json
+C:\Users\ADMIN\Desktop\Projetos\Marcos-desafio\bin\Debug\net7.0\Marcos-desafio.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Projetos\Marcos-desafio\bin\Debug\net7.0\Marcos-desafio.dll
+C:\Users\ADMIN\Desktop\Projetos\Marcos-desafio\bin\Debug\net7.0\Marcos-desafio.pdb
+C:\Users\ADMIN\Desktop\Projetos\Marcos-desafio\obj\Debug\net7.0\Marcos-desafio.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Projetos\Marcos-desafio\obj\Debug\net7.0\Marcos-desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Projetos\Marcos-desafio\obj\Debug\net7.0\Marcos-desafio.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Projetos\Marcos-desafio\obj\Debug\net7.0\Marcos-desafio.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Projetos\Marcos-desafio\obj\Debug\net7.0\Marcos-desafio.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Projetos\Marcos-desafio\obj\Debug\net7.0\Marcos-desafio.dll
+C:\Users\ADMIN\Desktop\Projetos\Marcos-desafio\obj\Debug\net7.0\refint\Marcos-desafio.dll
+C:\Users\ADMIN\Desktop\Projetos\Marcos-desafio\obj\Debug\net7.0\Marcos-desafio.pdb
+C:\Users\ADMIN\Desktop\Projetos\Marcos-desafio\obj\Debug\net7.0\Marcos-desafio.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\Projetos\Marcos-desafio\obj\Debug\net7.0\ref\Marcos-desafio.dll
